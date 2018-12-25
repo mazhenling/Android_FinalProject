@@ -1,5 +1,3 @@
-![License](https://img.shields.io/badge/license-Apache%202.0-brightgreen.svg?style=flat)
-
 ## 运行截图
 
 <img src="art/gif/1.gif" width="360" height="640" alt="截图1" />
